@@ -6,13 +6,13 @@
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Medtronic-LABS_spice-fhir-adapter&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Medtronic-LABS_spice-fhir-adapter)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Medtronic-LABS_spice-fhir-adapter&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Medtronic-LABS_spice-fhir-adapter)
 ## FHIR ADAPTER - Simplified Data Exchange
-`FHIR Powerhouse`: A brand new FHIR (Fast Healthcare Interoperability Resources) adapter bridges the gap between SPICE and this widely used data format. This adapter acts like a translator, effortlessly converting SPICE data into FHIR format.
+`FHIR Powerhouse`: A brand new HL7 FHIR (Fast Healthcare Interoperability Resources) adapter bridges the gap between SPICE and this widely used data format. This adapter acts like a translator, effortlessly converting SPICE data into FHIR format.
 
-`Centralized Data Hub`:The converted data is then mapped to corresponding FHIR resources (think data fields) and pushed to a central FHIR database. This creates a central repository for your healthcare information.
+`Centralized Data Hub`: The converted data is then mapped to corresponding FHIR resources (think data fields) and pushed to a central FHIR database. This creates a central repository for your healthcare information.
 
-`Reaching New Horizons`:The stored FHIR data isn't locked away. It can be easily transferred to DHIS2 (District Health Information System 2) systems used in Africa and Bangladesh. This fosters broader data exchange and accessibility across regions.
+`Reaching New Horizons`: The stored FHIR data isn't locked away. It can be easily transferred to health management information systems such as DHIS2 (District Health Information System) systems used in Africa and Bangladesh. This fosters broader data exchange and accessibility across regions.
 
-`Multilingual Capability`:SPICE now supports multi-language translation for the user interface! This means you can experience SPICE in your preferred language, making it easier than ever to navigate and use the app.
+`Multilingual Capability`: SPICE now supports multi-language translation for the user interface! This means you can experience SPICE in your preferred language, making it easier than ever to navigate and use the app.
 
 ## Tech stack
 
